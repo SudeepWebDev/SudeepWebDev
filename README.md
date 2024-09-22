@@ -1,7 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Sudeep Kumar Singh, a full-stack developer.</div>  
   
@@ -12,7 +8,7 @@
 - ❓ Ask me about anything related to Flutter and related technologies  
   
 
-[View My Resume](SudeepWebDev/SudeepWebDev/blob/c4785d4be82492ec62bd68e54cb7b31d84970c1f/SudeepWebDev%20Resume.pdf)  
+[View My Resume](https://github.com/SudeepWebDev/SudeepWebDev/blob/c4785d4be82492ec62bd68e54cb7b31d84970c1f/SudeepWebDev%20Resume.pdf)
   
 
 <br/>  
