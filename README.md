@@ -85,7 +85,10 @@
 
 <br/>  
 
-  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudeepwebdev&show_icons=true&locale=en&layout=compact" alt="sudeepwebdev" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudeepwebdev&show_icons=true" alt="sudeepwebdev" /></p>
 
 <br/>  
 
